@@ -1,0 +1,151 @@
+Degree,Branch,CGPA,Aptitude_Score,Communication_Score,Projects,Internship,Internship_Months,Backlogs,Attendance_Percent,Skill,Skill_Count,Placement_Status
+MCA,MECH,7.26,53,85,3,No,0,0,80.8,Cloud,0,Placed
+B.Sc,Information Technology,8.40 / 10,78,31,1,No,0,0,90,C++,1,Placed
+B.Sc,ECE,7.55,59,61,0,Yes,8,0,68.2,C++,1,Placed
+BSC,CSE,4.5,86,62,1, YES ,6,,,Cloud,3,Placed
+B.E,EEE,7.36,91,33,0,No,0,0,90.2,Java,0,Not Placed
+MTECH,EEE,6.78,80,74,4,Yes,0,0,75.1,Java,6, Yes 
+MBA,ECE,7.74,69,65,1,Yes,3,0,71.9,Python,4,Placed
+MBA,CSE,6.54,61,78,2,Yes,3,2,64.7,SQL,2,Placed
+B.E,EEE,7.36,100,71,3,Yes,3,0,78.2,SQL,3,Placed
+B.E,ECE,8.63,73,68,1,no,0,1,86.5,Machine Learning,5,Placed
+M.Tech ,MECH,6.71,43,82,3,No,0,1,145,C++,2,Placed
+B.Com,CIVIL,8.72,59,55,0,Yes,6,0,77.4,Java,2,Placed
+B.E,ECE,8.36,57,76,1,No,0,2,78.9,,3,Placed
+B.Tech,CIVIL,6.78,62,73,3,Yes,2,1,80.4,Java,1,Placed
+B.Sc,CSE,7.19,71,86,2,No,0,1,74.2,Machine Learning,1,Not Placed
+MBA,AIML,7.43,78,85,0,Yes,4,1,88.9,Java,2,Placed
+B.E,MECH,8.27,58,74,3,Yes,6,1,78.4,Python,0,Placed
+B.Tech,IT,5.03,73,66,1,Yes,4,0,91.7,Data Science,3, Yes 
+B.E,CIVIL,7.43,63,95,1,Yes,2,1,84.2,JavaScript,5,Placed
+MCA,MECH,6.3,38,98,2,No,0,0,71,Python,7,Not Placed
+MTECH,IT,7.72,65,77,0,No,0,0,90.9,Python,2,Not Placed
+M.Tech,EEE,14,80,81,3,Yes,3,2,100,SQL,2,Placed
+B.Sc,ECE,7.5,75,100,3,Yes,2,0,72.1,SQL,3,Placed
+B.Sc,ECE,9.19,67,,3,Y,0,0,97.7,JavaScript,2,placed
+MCA,MECH,5.42,63,47,2,Yes,0,3,89.8,SQL,2,Placed
+B.Com,MECH,5.99,53,86,1,Yes,6,0,75.4,Machine Learning,2,Placed
+B.Sc,IT,7.69,58,85,1,No,0,3,80.4,Machine Learning,3, Yes 
+B.Com,ECE,7.71 / 10,79,67,1,Yes,0,2,70.40%,C++,5,Placed
+M.Tech,CSE,6.77,64,47,3,No,0,0,78.1,Machine Learning,2,Placed
+BCA,AIML,8.51,91,58,4,Yes,4,1,79,Machine Learning,2,Placed
+B.Tech,AIML,6.89,76,,1,no,0,1,80.5,Java,1,No
+M.Tech ,IT,7.09,56,75,5,no,0,1,72.1,C++,2,Not Placed
+MCA,CSE,8.44,81,63,1,No,0,0,87.4,Machine Learning,6,PLACED
+B.Tech,CIVIL,6.22,65,69,3,Yes,12,1,68.8,JavaScript,3,Placed
+B.Com,ECE,7.87 / 10,72,53,2,No,0,0,86.4,C++,3,Placed
+BCA,CIVIL,6.43,,65,2,Yes,8,1,79.9,Java,2,Placed
+MBA,CIVIL,6.25,,87,3,Yes,0,1,83.3,Cloud,4,Placed
+MBA,CIVIL,7.05,41,62,0,No,0,1,76,Cloud,2,Not Placed
+MBA,MECH,7.27,79,63,2,No,0,0,89.8,Machine Learning,4,Placed
+B.Sc,cse,7.17,68,72,0,No,0,0,61.6,Python,0,Placed
+ MCA ,AIML,5.9,61,44,2, YES ,0,0,93.9,Python,3,Placed
+B.Sc,AIML,6.67,54,93,2,yes,6,4,79,C++,4,Not Placed
+MBA, CSE ,8.76,67,56,2,No,0,0,77,C++,1,PLACED
+MBA,CSE,5.22,64,62,3,N,0,0,75,Java,0,Not Placed
+MCA,ECE,7.9,60,68,4,Yes,12,0,70.9,Data Science,2,Placed
+B.Com,CSE,5.58,97,69,4,No,0,0,74.5,SQL,3,NOT PLACED
+B.E,CIVIL,9.82,45,87,5,No,0,0,93.50%,Machine Learning,3, Yes 
+B.Com,MECH,8.44,74,82,1,No,0,0,78.9,JavaScript,5,Placed
+B.Sc,IT,7.73,77,79,2,Yes,3,2,99.7,Cloud,3,Placed
+MCA,CIVIL,8.06,73,52,1,No,0,0,97.8,Cloud,4,Not Placed
+B.Com,MECH,7.33,49,60,1,No,0,0,82.5,SQL,4,Placed
+MBA,IT,6.21,73,79,0,Yes,3,0,90.8,C++,2,Placed
+B.Com,AIML,8.92,58,47,2, YES ,6,0,71.5,Data Science,2,Placed
+B.Com,ECE,7.63,52,62,4,Yes,6,0,96.3,Python,4,PLACED
+M.Tech,ECE,5.94,83,59,3,Yes,8,1,82.4,Python,3,Placed
+B.E,ECE,6.87,76,47,1,Yes,3,1,,JavaScript,5,Placed
+BTECH,MECH,8.38,81,43,2,No,0,2,,C++,5,Placed
+B.Tech,AIML,7.62,38,51,6,Y,12,0,84,SQL,0,Placed
+B.Com,CIVIL,6.93,76,86,3,Yes,3,1,77.4,JavaScript,3,Not Placed
+BCA,IT,5.92,70,52,2,Yes,0,0,82.3,Machine Learning,1,Placed
+B.E. ,MECH,6.82,77,72,2,Yes,4,1,66.8,Data Science,6, Yes 
+B.E,AIML,7.6,75,89,1,Yes,3,1,81.2,C++,2,Placed
+MBA,ECE,7.45,78,41,2,no,0,,100,Machine Learning,6,Placed
+MTECH,CIVIL,7.33,85,65,3,Yes,2,1,91,SQL,2,placed
+MTECH,ECE,5.7,74,78,4,Yes,6,0,99.8,Machine Learning,3,PLACED
+BCA,CIVIL,6.25,62,79,1,Yes,0,1,90.5,Cloud,4,Placed
+BCA,AIML,8.63 / 10,61,100,4,No,0,0,71.7,Data Science,3,Placed
+B.Tech,CIVIL,8.67,85,58,1,No,0,1,78,Cloud,6,Placed
+ MCA ,AIML,7.02,60,,2,No,0,1,92,JavaScript,0,Placed
+M.Tech,CSE,6.77,64,47,3,No,0,0,78.1,Machine Learning,2,Placed
+B.Com,CIVIL,7.5,43,49,4,N,0,2,85.6,SQL,3,PLACED
+M.Tech,CSE,7.31,67,45,3,Yes,3,0,96.9,Java,3,Placed
+B.Com,AIML,7.43,52,44,2,No,0,1,92.9,C++,2, Yes 
+BCA,CSE,7.47,92,66,0,No,0,2,95.2,SQL,4,Placed
+B.Sc,AIML,8.79,100,64,2,No,0,1,67.7,JavaScript,2,Placed
+MBA,Computer Science,7.11,56,80,3,No,0,1,77.1,Java,3,Placed
+BCA,CIVIL,,55,,3,Yes,12,0,74.4,C++,2,Placed
+M.Tech,ECE,6.48,77,64,2,Yes,12,0,61.3,Java,4,Placed
+BCA,CIVIL,7.87,39,53,1,Yes,4,2,79.2,Cloud,1,Not Placed
+M.Tech,EEE,9.84,77,57,3,Yes,4,1,81.6,Data Science,5,Placed
+M.Tech,ECE,5.19,98,72,0,No,0,0,86,Machine Learning,3,Not Placed
+MBA,IT,8.21,90,63,2,Yes,12,2,70.6,SQL,3,Placed
+B.Tech,EEE,5.23,66,51,0,No,0,0,88.7,Data Science,1,Not Placed
+MBA,AIML,8.03,37,72,1,No,0,0,78.8,Cloud,1,Placed
+BCA,ECE,8.38,64,85,1, YES ,12,0,,SQL,3,Placed
+BCA,CIVIL,7.47,37,90,1,N,0,0,76.9,Java,3,Placed
+MCA,AIML,8.18,61,78,1,Yes,0,1,86.3,Data Science,1,Placed
+B.Sc,MECH,6.83,62,78,2,No,0,1,78.9,SQL,0,Not Placed
+MBA,AIML,,66,71,2,Yes,12,0,79.00%,Python,3,Placed
+B.Tech,ECE,7.73,64,72,2,Yes,12,1,94.3,C++,3,Placed
+B.Tech ,ECE,6.26,65,91,1,Yes,0,0,86.1,Machine Learning,1,Placed
+MCA,cse,7.55,41,74,1,Yes,8,2,80.5,SQL,3,Placed
+B.Com,AIML,7.23,71,56,2,Yes,6,0,71.8,,2,Placed
+MCA,MECH,8.92,48,57,3,Yes,0,2,88.8,SQL,5,Placed
+MBA,IT,8.58,78,72,3,Yes,3,1,97.2,Cloud,3,Placed
+BCA,MECH,7.64,69,59,0,Yes,3,1,100,,0,Placed
+B.Com,CIVIL,6.54,70,52,3, YES ,6,0,79.3,SQL,4,Placed
+B.E,CIVIL,6.63,71,70,4,Yes,6,0,75.5,JavaScript,3,placed
+mba,ECE,9.42,49,70,1,Y,2,0,69.1,Cloud,1,Placed
+B.Com,CSE,5.43,69,67,0,Yes,3,1,88.70%,JavaScript,6,Not Placed
+MCA,AIML,6.2,71,87,0,No,0,0,80.8,Machine Learning,0,Placed
+MCA,CIVIL,6.66,57,68,2,Yes,12,0,73.00%,SQL,1,No
+B.Sc,CSE,7.78,54,87,2,,6,0,72.2,Python,3,Placed
+MBA,CSE,7.51,66,63,3,,0,0,84.5,Python,4,Not Placed
+B.Sc,AIML,8.15,100,76,2,Yes,0,0,82.2,JavaScript,6,Placed
+B E,EEE,8.48,84,54,1,Yes,0,1,77.9,SQL,1,placed
+M.Tech,ECE,8.06,66,60,0, NO ,0,1,73.8,JavaScript,3,Placed
+B.Sc. ,CIVIL,7.13,86,79,1,No,0,0,68.1,Cloud,0,Placed
+ MCA ,IT,7.47,85,57,0,Yes,6,3,84.4,Machine Learning,3,Placed
+MBA,MECH,7.59,81,,5,No,0,0,75.2,Machine Learning,2,Placed
+MBA,MECH,7.28,71,87,3,Yes,4,1,71.7,JavaScript,2,Placed
+B.Com,EEE,5.51 / 10,44,73,4,Yes,0,0,87.1,C++,1,PLACED
+M.Tech,ECE,6.74,70,86,4,Yes,8,0,59.5,Cloud,5,placed
+B.Sc,IT,7.89,67,47,0,Yes,12,0,93.6,JavaScript,2,Placed
+B.Com,MECH,7.74,55,77,2,N,0,1,97.3,Cloud,1,Placed
+BTECH,ECE,6.81,61,64,0,N,0,1,74.9,,5,Not Placed
+BTECH,CIVIL,6.26,84,74,0,Yes,4,1,85.9,Machine Learning,1,Not Placed
+M.Tech,CSE,7.5,56,70,3,Yes,6,2,87,C++,5,Placed
+MCA,AIML,6.63,62,69,2,No,0,0,93.2,Data Science,2,Not Placed
+B.E,ECE,7.74,92,71,1,,2,0,-20,JavaScript,4,Placed
+BCA,IT,7.78,42,64,3,Yes,3,1,69.8,Cloud,2,Placed
+B.Com,CSE,5.51 / 10,63,80,3,Yes,12,0,69.3,Cloud,3,Placed
+B.Sc,EEE,7.83,47,63,3,No,0,1,81.4,Python,1,Placed
+M.Tech,CIVIL,7.66,70,71,2,Yes,2,1,87.90%,Java,2,placed
+BE,CIVIL,9.48,61,86,1,No,0,3,83.5,Data Science,2,Placed
+B Tech,AIML,5.96,64,53,3,No,0,0,64.00%,Machine Learning,1,Placed
+B.Com,EEE,8.67,72,57,2,No,0,0,77.9,Data Science,3,Placed
+BCOM,MECH,7.42,46,60,2,Yes,8,0,64.2,Machine Learning,2,Placed
+MCA,EEE,6.88,45,69,3,Yes,8,1,66.2,Java,3,Not Placed
+B.E,CIVIL,7.93,68,44,2,No,0,1,75.5,JavaScript,3,Placed
+B.Sc,ECE,6.94,34,66,1, YES ,4,0,61.3,Cloud,2,Placed
+B.E,it,,63,,1,Y,0,1,96.3,SQL,2,Placed
+B.E,IT,,73,68,2,Y,8,3,98.1,Cloud,4,Placed
+bca,AIML,,65,71,3,Yes,4,0,73.7,Machine Learning,6,Placed
+BCA,IT,6.82,55,45,1,No,0,0,83.2,C++,1,Placed
+BCOM,MECH,7.33,30,67,1,Y,6,0,92.6,Java,5,Placed
+BCA,CIVIL,8.09,65,70,2,Yes,0,1,80.3,SQL,3,Not Placed
+B.Com,ECE,7.49,55,58,3,Yes,8,0,87.2,JavaScript,4,Placed
+B.Com,CIVIL,6.76,73,53,0,Yes,4,0,83.1,Java,3,Placed
+MBA,AIML,7.12,62,68,1,Yes,2,0,84.6,C++,0,placed
+MCA,CSE,6.92,71,76,3,No,0,1,89.1,Machine Learning,7,Placed
+B.Tech,EEE,7.37,60,89,1,Yes,3,1,95.2,C++,2,Placed
+B.Tech,ECE,7.19,99,44,2,No,0,0,71.5,C++,3,Placed
+BCA,IT,5.7,72,83,2,Y,6,0,77.8,Data Science,3,Placed
+B.Sc,ECE,9.38,70,73,2,Yes,3,0,81.3,C++,1, Yes 
+B.Sc. ,MECH,7.9,64,61,2,No,0,2,77.8,C++,5,Placed
+B.Com,AIML,8.6,70,73,3,yes,2,0,62.3,SQL,3,placed
+M.Tech,MECH,9.39,64,50,1,No,0,0,78.9,Cloud,6, Yes 
+B.Com,Computer Science,8.17,63,70,1,Yes,12,0,87.2,Java,3,Placed
+B.Com,EEE,8.93 / 10,43,97,0,Yes,8,0,83.4,SQL,3,Placed
